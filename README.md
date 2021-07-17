@@ -1,6 +1,6 @@
-Hey Peeps✌ , Shatakshi Mishra this side.
+Shatakshi Mishra 
 Computer Science Engineer.
-Love Coding ❤
+
 
 <!---
 ShatakshiMishra/ShatakshiMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
